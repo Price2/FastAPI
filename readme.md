@@ -59,7 +59,6 @@ uvicorn main:app --reload
 To use the API, start the FastAPI application:
 
 bash
-Copy code
 # Start the FastAPI application
 uvicorn main:app --reload
 
