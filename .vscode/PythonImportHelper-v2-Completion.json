@@ -1,0 +1,487 @@
+[
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryInput",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryOutput",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductInput",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductOutPut",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductInput",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryInput",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "select",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "SQLModel",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Relationship",
+        "importPath": "sqlmodel",
+        "description": "sqlmodel",
+        "isExtraImport": true,
+        "detail": "sqlmodel",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "IntegrityError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "product",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "category",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "add_category",
+        "kind": 2,
+        "importPath": "routers.category",
+        "description": "routers.category",
+        "peekOfCode": "def add_category( category: CategoryInput, session: Session = Depends(get_session)) -> JSONResponse :\n    new_category = Category.from_orm(category)\n    session.add(new_category)\n    session.commit()\n    session.refresh(new_category)\n    return JSONResponse({\"success\": True, \"results\":{}}, status_code=201)\n@router.get(\"/\", status_code=201)\ndef get_categories(id:int|None=None ,name: str | None = None, \n                   session: Session = Depends(get_session)):\n    query = select(Category)",
+        "detail": "routers.category",
+        "documentation": {}
+    },
+    {
+        "label": "get_categories",
+        "kind": 2,
+        "importPath": "routers.category",
+        "description": "routers.category",
+        "peekOfCode": "def get_categories(id:int|None=None ,name: str | None = None, \n                   session: Session = Depends(get_session)):\n    query = select(Category)\n    if id:\n        query = query.where(Category.id == id)\n    if name:\n        query = query.where(Category.name == name)\n    results = session.exec(query).all()\n    return {\"success\": True, \"results\": results}",
+        "detail": "routers.category",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.category",
+        "description": "routers.category",
+        "peekOfCode": "router = APIRouter(prefix=\"/api/categories\")\n@router.post(\"/categories\", status_code=201)\ndef add_category( category: CategoryInput, session: Session = Depends(get_session)) -> JSONResponse :\n    new_category = Category.from_orm(category)\n    session.add(new_category)\n    session.commit()\n    session.refresh(new_category)\n    return JSONResponse({\"success\": True, \"results\":{}}, status_code=201)\n@router.get(\"/\", status_code=201)\ndef get_categories(id:int|None=None ,name: str | None = None, ",
+        "detail": "routers.category",
+        "documentation": {}
+    },
+    {
+        "label": "get_products",
+        "kind": 2,
+        "importPath": "routers.product",
+        "description": "routers.product",
+        "peekOfCode": "def get_products(name: str | None = None, price : int | None = None,\n                 quantity : int | None = None, category_id: int | None = None ,session: Session = Depends(get_session)):\n    query = select(Product)\n    if name:\n        query = query.where(Product.name == name)\n    if price:\n        query = query.where(Product.price == price)\n    if quantity:\n        query = query.where(Product.quantity == quantity)\n    if category_id:",
+        "detail": "routers.product",
+        "documentation": {}
+    },
+    {
+        "label": "product_by_id",
+        "kind": 2,
+        "importPath": "routers.product",
+        "description": "routers.product",
+        "peekOfCode": "def product_by_id(id: int, session: Session = Depends(get_session)) -> dict:\n    product = session.get(Product, id)\n    print(f\"product retrieved: {product}\")\n    if product:\n        return {'success': True, 'results': product}\n    else:\n        raise HTTPException(status_code=404, detail={\"success\": False, \"results\": {}, \"message\": f\"No product with id={id}\"})\n@router.post(\"/\", response_model=Product)\ndef create_product(product: ProductInput, session: Session = Depends(get_session)):\n    new_prod = Product.from_orm(product)",
+        "detail": "routers.product",
+        "documentation": {}
+    },
+    {
+        "label": "create_product",
+        "kind": 2,
+        "importPath": "routers.product",
+        "description": "routers.product",
+        "peekOfCode": "def create_product(product: ProductInput, session: Session = Depends(get_session)):\n    new_prod = Product.from_orm(product)\n    try:\n        session.add(new_prod)\n        session.commit()\n        session.refresh(new_prod)\n    except Exception as error:\n        raise HTTPException(status_code=400, detail={\"success\":False, \"results\": {}, \"message\": f\"An Error occured while creating product, check your configuration\"})\n    return JSONResponse({\"success\": True, \"results\": {}}, status_code=201)\n@router.put(\"/{id}\")",
+        "detail": "routers.product",
+        "documentation": {}
+    },
+    {
+        "label": "update_product",
+        "kind": 2,
+        "importPath": "routers.product",
+        "description": "routers.product",
+        "peekOfCode": "def update_product( id:int ,productInp: ProductInput, session: Session = Depends(get_session)):\n    product = session.get(Product, id)\n    if product:\n        product.name = productInp.name\n        product.price = productInp.price\n        product.quantity = productInp.quantity\n        product.imgURL = productInp.imgURL\n        product.category_id = productInp.category_id\n        try:\n            session.commit()",
+        "detail": "routers.product",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.product",
+        "description": "routers.product",
+        "peekOfCode": "router = APIRouter(prefix=\"/api/products\")\n@router.get(\"/\")\ndef get_products(name: str | None = None, price : int | None = None,\n                 quantity : int | None = None, category_id: int | None = None ,session: Session = Depends(get_session)):\n    query = select(Product)\n    if name:\n        query = query.where(Product.name == name)\n    if price:\n        query = query.where(Product.price == price)\n    if quantity:",
+        "detail": "routers.product",
+        "documentation": {}
+    },
+    {
+        "label": "get_session",
+        "kind": 2,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "def get_session():\n    with Session(engine) as session:\n        yield session",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db_url",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "db_url = \"postgresql://postgres:1234567890@localhost:5432/fastapi\"\nengine = create_engine(\n    db_url,\n    echo=True  # Log generated SQL\n)\ntry:\n    connection = engine.connect()\n    print(\"Connected to the database.\")\n    connection.close()\nexcept Exception as e:",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "engine = create_engine(\n    db_url,\n    echo=True  # Log generated SQL\n)\ntry:\n    connection = engine.connect()\n    print(\"Connected to the database.\")\n    connection.close()\nexcept Exception as e:\n    print(f\"Error: {str(e)}\")",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "on_startup",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def on_startup():\n    SQLModel.metadata.create_all(engine)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\napp.include_router(product.router)\napp.include_router(category.router)\norigins = [\"*\"]  # You can replace \"*\" with specific origins as needed\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],  # You can specify HTTP methods you want to allow\n    allow_headers=[\"*\"],  # You can specify allowed headers",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "origins = [\"*\"]  # You can replace \"*\" with specific origins as needed\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],  # You can specify HTTP methods you want to allow\n    allow_headers=[\"*\"],  # You can specify allowed headers\n)\n@app.on_event(\"startup\")\ndef on_startup():",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "ProductInput",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class ProductInput(SQLModel):\n    name: str\n    price: int\n    quantity: int\n    imgURL: str | None\n    category_id : int\nclass Product (ProductInput, table=True):\n    id: int | None = Field(default=None, primary_key=True)\n    category_id : int = Field(foreign_key=\"category.id\")\n    category : \"Category\" = Relationship(back_populates=\"categories\")",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Produc",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class Product (ProductInput, table=True):\n    id: int | None = Field(default=None, primary_key=True)\n    category_id : int = Field(foreign_key=\"category.id\")\n    category : \"Category\" = Relationship(back_populates=\"categories\")\nclass ProductOutPut(ProductInput):\n    id: int\nclass CategoryInput(SQLModel):\n    name: str\nclass Category (CategoryInput, table=True):\n    id: int | None = Field(default=None, primary_key=True)",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductOutPut",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class ProductOutPut(ProductInput):\n    id: int\nclass CategoryInput(SQLModel):\n    name: str\nclass Category (CategoryInput, table=True):\n    id: int | None = Field(default=None, primary_key=True)\n    categories: list[Product] = Relationship(back_populates=\"category\")\nclass CategoryOutput(CategoryInput):\n    id: int\n    categories: list[ProductOutPut] = []",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryInput",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class CategoryInput(SQLModel):\n    name: str\nclass Category (CategoryInput, table=True):\n    id: int | None = Field(default=None, primary_key=True)\n    categories: list[Product] = Relationship(back_populates=\"category\")\nclass CategoryOutput(CategoryInput):\n    id: int\n    categories: list[ProductOutPut] = []",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Categor",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class Category (CategoryInput, table=True):\n    id: int | None = Field(default=None, primary_key=True)\n    categories: list[Product] = Relationship(back_populates=\"category\")\nclass CategoryOutput(CategoryInput):\n    id: int\n    categories: list[ProductOutPut] = []",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryOutput",
+        "kind": 6,
+        "importPath": "models",
+        "description": "models",
+        "peekOfCode": "class CategoryOutput(CategoryInput):\n    id: int\n    categories: list[ProductOutPut] = []",
+        "detail": "models",
+        "documentation": {}
+    }
+]
